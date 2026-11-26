@@ -1,19 +1,20 @@
-# Atualizações do TCPExec
+# TCPExec
 
-Para atualizar manualmente o TCPExec, abra a [distribuição oficial 1.0.425](https://github.com/Dorflex-DD/TCPExec/releases/tag/v1.0.425). Escolha o instalador MSI para uma instalação Windows ou o ZIP para uma cópia portátil.
+Acesse e execute comandos em switches, roteadores, firewalls e servidores, um ou centenas de uma vez. / Access and run commands on switches, routers, firewalls and servers, one or hundreds at a time.
 
-Quem já usa o TCPDesk encontra os pacotes no [canal do TCPDesk](https://github.com/Dorflex-DD/TCPDesk-releases/releases/latest).
+![Tela principal / Main window](telas/principal.png)
+![Aparência Clássico / Classic appearance](telas/classico.png)
+![Escolha da aparência / Appearance choice](telas/escolha.png)
 
-## Telas
+## Baixar / Download — v1.0.426
 
-Execução em massa: os mesmos comandos em vários equipamentos de uma vez.
+- [Instalador / Installer (.msi)](https://github.com/Dorflex-DD/TCPExec/releases/download/v1.0.426/TCPExec_v1.0.426_instalador_sem-runtime.msi)
+- [Portátil / Portable (.zip)](https://github.com/Dorflex-DD/TCPExec/releases/download/v1.0.426/TCPExec_v1.0.426_executavel_sem-runtime.zip)
 
-![Execução em massa](telas/execucao-em-massa.png)
+Windows 10/11 x64 · .NET 11
 
-Servidores prontos: TFTP e SSH (também FTP, SFTP, HTTP, SOCKS, proxy, SNMP e console).
+## Novidades / What's new
 
-![Servidor TFTP](telas/servidor-tftp.png)
-
-![Servidor SSH](telas/servidor-ssh.png)
-
-*Telas da versão 1.0.425, com dados fictícios.*
+- Nova aparência Clássico, com cara de programa do Windows. / New Classic appearance that looks like a Windows program.
+- Ao atualizar, o app pergunta: Padrão ou Clássico. / After updating, the app asks: Default or Classic.
+- No Clássico, ícones coloridos, cinza ou azuis. / In Classic, colored, gray or blue icons.
