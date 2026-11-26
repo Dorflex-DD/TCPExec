@@ -1,7 +1,7 @@
 <p align="center"><img src="telas/banner.png" alt="TCPExec" width="100%"></p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/vers%C3%A3o-1.0.428-blue"> <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6"> <img src="https://img.shields.io/badge/.NET-11-512BD4">
+<img src="https://img.shields.io/badge/vers%C3%A3o-1.0.429-blue"> <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6"> <img src="https://img.shields.io/badge/.NET-11-512BD4">
 </p>
 
 <p align="center"><b>A estação de trabalho do técnico de redes: acesse e mande comandos para um equipamento ou para centenas de uma vez.</b><br><i>The network technician's workstation: access and send commands to one device or hundreds at once.</i></p>
@@ -44,9 +44,9 @@ Para quem cuida de switches, roteadores, firewalls e servidores. O TCPExec guard
 
 Windows 10/11 x64 · .NET 11 Desktop Runtime
 
-## Novidades / What's new — v1.0.428
-- Novo visual em todas as janelas, menus e avisos: Windows 7 Basic ou Windows Clássico, com 10 cores. / *New look in every window, menu and message: Windows 7 Basic or Windows Classic, with 10 colors.*
-- Configurações › Aparência em galeria: vale na hora; Cancelar desfaz. / *Settings › Appearance as a gallery: applies instantly; Cancel undoes.*
-- Só dois pacotes: instalador .msi e portátil .zip. / *Only two packages: .msi installer and portable .zip.*
+## Novidades / What's new — v1.0.429
+- Telas que se ajustam à escala do Windows (125% ou mais). / *Screens adapt to the Windows scale (125% or more).*
+- Tamanho e Escala da interface sempre iguais. / *Size and Interface scale always match.*
+- No Windows Clássico, o título das janelas em branco. / *In Windows Classic, window titles are white again.*
 
 <sub>Uso somente com autorização escrita do autor. / Use only with the author's written authorization.</sub>
