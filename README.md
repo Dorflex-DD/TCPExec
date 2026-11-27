@@ -1,7 +1,7 @@
 <p align="center"><img src="telas/banner.png" alt="TCPExec" width="100%"></p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/vers%C3%A3o-1.0.431-blue"> <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6"> <img src="https://img.shields.io/badge/.NET-11-512BD4">
+<img src="https://img.shields.io/badge/vers%C3%A3o-1.0.432-blue"> <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6"> <img src="https://img.shields.io/badge/.NET-11-512BD4">
 </p>
 
 <p align="center"><b>A estação de trabalho do técnico de redes: acesse e mande comandos para um equipamento ou para centenas de uma vez.</b><br><i>The network technician's workstation: access and send commands to one device or hundreds at once.</i></p>
@@ -16,7 +16,7 @@ Para quem cuida de switches, roteadores, firewalls e servidores. O TCPExec guard
 | | |
 |---|---|
 | **Execução em massa** — os mesmos comandos em centenas de equipamentos, com o resultado de cada um.<br>*Mass execution — the same commands on hundreds of devices, with each result.* | ![](telas/principal.png) |
-| **Visual Windows 7 Basic ou Windows Clássico** — 10 cores, claro ou escuro, e Configurações em páginas.<br>*Windows 7 Basic or Windows Classic look — 10 colors, light or dark, and Settings in pages.* | ![](telas/aparencia.png) |
+| **Tema Padrão ou Clássico** — 10 cores, claro ou escuro, e Configurações em páginas.<br>*Standard or Classic theme — 10 colors, light or dark, and Settings in pages.* | ![](telas/aparencia.png) |
 | **Tudo à mão no botão direito** — conectar, abrir arquivos, monitorar e copiar a partir do equipamento.<br>*Everything on right-click — connect, open files, monitor and copy from the device.* | ![](telas/menu-equipamento.png) |
 
 ## Como funciona / How it works
@@ -35,7 +35,7 @@ Para quem cuida de switches, roteadores, firewalls e servidores. O TCPExec guard
 ## Galeria / Gallery
 | | |
 |---|---|
-| ![](telas/principal.png)<br>Windows 7 Basic (Céu) / *Windows 7 Basic (Sky)* | ![](telas/classico.png)<br>Windows Clássico / *Windows Classic* |
+| ![](telas/principal.png)<br>Tema Padrão (Céu) / *Standard theme (Sky)* | ![](telas/classico.png)<br>Tema Clássico / *Classic theme* |
 | ![](telas/escuro.png)<br>Modo escuro / *Dark mode* | ![](telas/configuracoes.png)<br>Configurações em páginas / *Settings in pages* |
 | ![](telas/abrir-arquivos.png)<br>Abrir arquivos / *Open files* | ![](telas/principal.png)<br>Execução em massa / *Mass execution* |
 | ![](telas/pergunta.png)<br>Pergunta no tema (cor Folha) / *Question in the theme (Leaf color)* | ![](telas/menu-equipamento.png)<br>Botão direito no equipamento / *Right-click on a device* |
@@ -45,8 +45,9 @@ Para quem cuida de switches, roteadores, firewalls e servidores. O TCPExec guard
 
 Windows 10/11 x64 · .NET 11 Desktop Runtime
 
-## Novidades / What's new — v1.0.431
-- Tema escuro corrigido: títulos e ícones visíveis também no Windows Clássico. / *Dark theme fixed: titles and icons visible in Windows Classic too.*
-- Botões do título no tom escuro e sem faixas claras na Execução em massa. / *Dark title buttons and no light stripes in Mass execution.*
+## Novidades / What's new — v1.0.432
+- Janela de versão nova no formato de mensagem, com a lista do que mudou. / *New-version window as a message, with the list of changes.*
+- Escolha de aparência só nas Configurações; temas Padrão e Clássico. / *Appearance chosen only in Settings; Standard and Classic themes.*
+- Ajustes finos: títulos, botões, barra de status, listas e caixas de escolha. / *Fine-tuning: titles, buttons, status bar, lists and drop-downs.*
 
 <sub>Uso somente com autorização escrita do autor. / Use only with the author's written authorization.</sub>
