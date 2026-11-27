@@ -1,7 +1,7 @@
 <p align="center"><img src="telas/banner.png" alt="TCPExec" width="100%"></p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/vers%C3%A3o-1.0.430-blue"> <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6"> <img src="https://img.shields.io/badge/.NET-11-512BD4">
+<img src="https://img.shields.io/badge/vers%C3%A3o-1.0.431-blue"> <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6"> <img src="https://img.shields.io/badge/.NET-11-512BD4">
 </p>
 
 <p align="center"><b>A estação de trabalho do técnico de redes: acesse e mande comandos para um equipamento ou para centenas de uma vez.</b><br><i>The network technician's workstation: access and send commands to one device or hundreds at once.</i></p>
@@ -45,9 +45,8 @@ Para quem cuida de switches, roteadores, firewalls e servidores. O TCPExec guard
 
 Windows 10/11 x64 · .NET 11 Desktop Runtime
 
-## Novidades / What's new — v1.0.430
-- Configurações com lista à esquerda e uma página por vez. / *Settings with a list on the left, one page at a time.*
-- Telas mais limpas, no padrão do Windows 7. / *Cleaner screens, in the Windows 7 style.*
-- Sessão encerrada: Enter reconecta, F fecha. / *Session ended: Enter reconnects, F closes.*
+## Novidades / What's new — v1.0.431
+- Tema escuro corrigido: títulos e ícones visíveis também no Windows Clássico. / *Dark theme fixed: titles and icons visible in Windows Classic too.*
+- Botões do título no tom escuro e sem faixas claras na Execução em massa. / *Dark title buttons and no light stripes in Mass execution.*
 
 <sub>Uso somente com autorização escrita do autor. / Use only with the author's written authorization.</sub>
