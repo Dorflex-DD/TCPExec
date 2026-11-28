@@ -1,7 +1,7 @@
 <p align="center"><img src="telas/banner.png" alt="TCPExec" width="100%"></p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/vers%C3%A3o-1.0.433-blue"> <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6"> <img src="https://img.shields.io/badge/.NET-11-512BD4">
+<img src="https://img.shields.io/badge/vers%C3%A3o-1.0.434-blue"> <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6"> <img src="https://img.shields.io/badge/.NET-11-512BD4">
 </p>
 
 <p align="center"><b>A estação de trabalho do técnico de redes: acesse e mande comandos para um equipamento ou para centenas de uma vez.</b><br><i>The network technician's workstation: access and send commands to one device or hundreds at once.</i></p>
@@ -45,8 +45,8 @@ Para quem cuida de switches, roteadores, firewalls e servidores. O TCPExec guard
 
 Windows 10/11 x64 · .NET 11 Desktop Runtime
 
-## Novidades / What's new — v1.0.433
-- Histórico de logs abre mais rápido e usando menos memória. / *Log history opens faster and uses less memory.*
-- Terminal Telnet: quando o equipamento fecha a sessão, o terminal mostra desconectado e Enter reconecta. / *Telnet terminal: when the device closes the session, the terminal shows disconnected and Enter reconnects.*
+## Novidades / What's new — v1.0.434
+- Servidor SSH: passa a escutar só no endereço escolhido em "Escutar em" (antes ficava em todas as interfaces). / *SSH server: now listens only on the address chosen in "Listen on" (it used to listen on all interfaces).*
+- Ajustes internos e de testes, sem mudança no uso. / *Internal and test adjustments, no change in use.*
 
 <sub>Uso somente com autorização escrita do autor. / Use only with the author's written authorization.</sub>
